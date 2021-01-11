@@ -1,5 +1,5 @@
 ---
-title: Sobre Nós
+title: Sobre
 icon: fas fa-info
 order: 4
 
@@ -10,7 +10,21 @@ order: 4
 # MIT License
 ---
 
-Somos um grupo de estudos em Visão Computacional e temas relacionados. Nosso objetivo é promover um ambiente saudável e construtivo de compartilhamento de conhecimento sobre Visão Computacional e suas diversas aplicações em problemas do mundo real.
+A Dev4.0 é uma empresa focada em compartilhamento de conhecimento sobre Machine Learning, Deep Learning e temas relacionados. Oferecemos conteúdo gratuito e também vendemos nossos produtos (em breve) com o objetivo de proporcionar conhecimento sólido acerca dos temas por nós abordados.
 
-O grupo não possui fins lucrativos.
+## MISSÃO
+
+Atuar compartilhando conhecimento sobre Machine Learning, Deep Learning e suas aplicações através da criação de conteúdo de qualidade, buscando sempre atender as demandas do mercado.
+
+
+## VISÃO
+
+Ser referência no compartilhamento de conhecimento e também no ensino de Machine e Deep Learning, proporcionando cursos/artigos/e-books de alta qualidade colaborando para que nossos clientes 
+
+
+## VALORES
+
+- Melhoria contínua
+- Ética
+- Transparência
 
