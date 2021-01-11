@@ -1,7 +1,7 @@
 ---
 title: Regressão Linear Simples com Python e sklearn
 author: Natália Amorim
-date: 2020-12-18 14:38:00 +0800
+date: 2021-01-11 14:38:00 +0800
 categories: [Machine Learning, Regressão]
 tags: [Machine Learning]
 toc: false

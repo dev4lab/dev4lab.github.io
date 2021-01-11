@@ -7,28 +7,28 @@
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
-title: Grupo OpenCV Brasil                          # the main title
+title: Dev4.0                          # the main title
 
-tagline: Espalhando a palavra da Visão Computacional!  # it will display as the sub-title
+tagline: Programadores rumo à Indústria 4.0!  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Tutoriais sobre Visão Computacional e Processamento Digital de Imagens
+  Tutoriais, Notícias e Curiosidades sobre Machine Learning e Deep Learning
 
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
 url: ''
 
-author: Grupo-OpenCV-BR              # change to your full name
+author: Natalia Amorim              # change to your full name
 
 avatar: /assets/img/sample/avatar.png   # support internet resources
 
 github:
-  username: Grupo-OpenCV-BR             # change to your github username
+  username: dev4lab             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: username            # change to your twitter username
 
 social:
-  name: Grupo OpenCV BR                 # it will shows as the copyright owner in Footer
+  name: Dev4.0                # it will shows as the copyright owner in Footer
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -47,7 +47,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: America/Sao_Paulo
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID

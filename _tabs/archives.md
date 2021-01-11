@@ -1,6 +1,6 @@
 ---
 layout: archives
-title: Capítulos
+title: Artigos
 icon: fas fa-archive
 order: 3
 ---
